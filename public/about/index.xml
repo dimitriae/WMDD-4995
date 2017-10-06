@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Dimitria Eleftherios</title>
+    <link>http://hugo.dimitriae.com/about/</link>
+    <description>Recent content in about on Dimitria Eleftherios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Oct 2017 19:17:43 -0700</lastBuildDate>
+    
+	<atom:link href="http://hugo.dimitriae.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

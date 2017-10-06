@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimitria Eleftherios</title>
+    <link>http://hugo.dimitriae.com/</link>
+    <description>Recent content on Dimitria Eleftherios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Oct 2017 19:19:24 -0700</lastBuildDate>
+    
+	<atom:link href="http://hugo.dimitriae.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to make a vector out of your brush lettering</title>
+      <link>http://hugo.dimitriae.com/post/meutitulo/</link>
+      <pubDate>Mon, 02 Oct 2017 19:19:24 -0700</pubDate>
+      
+      <guid>http://hugo.dimitriae.com/post/meutitulo/</guid>
+      <description>How to make a vector out of your brush lettering. Using Photoshop and Illustrator Brush lettering is something I’m particularly fond of. They look beautiful and personal in designs, but for some it’s always a pain to digitalize and use a brush lettering. In this tutorial you will learn how to transform your brush lettering from a picture, to a vector.
+Step 1: Take a picture of your lettering. A good picture always count, so look for a bright place and take a good shot of your art.</description>
+    </item>
+    
+  </channel>
+</rss>
